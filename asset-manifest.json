@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/peepo-workshop/static/css/main.e2ece021.css",
+    "main.js": "/peepo-workshop/static/js/main.dfddddf6.js",
+    "static/js/453.c792f595.chunk.js": "/peepo-workshop/static/js/453.c792f595.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/peepo-workshop/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/peepo-workshop/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/sound_effect.wav": "/peepo-workshop/static/media/sound_effect.b40168f3d541a46d4d01.wav",
+    "static/media/copyright.svg": "/peepo-workshop/static/media/copyright.41adcc0b1256294a4eceec74aad22ed6.svg",
+    "static/media/logo_alt.svg": "/peepo-workshop/static/media/logo_alt.315df8f5819182524a296d78b4b30d6a.svg",
+    "static/media/logo.svg": "/peepo-workshop/static/media/logo.f8e737be83a76eda8faf7fae3a734d2c.svg",
+    "static/media/download svg.svg": "/peepo-workshop/static/media/download svg.ba49ae62dfdc48df3a40912f67089c59.svg",
+    "static/media/download png.svg": "/peepo-workshop/static/media/download png.0df316cf34da2e53a138db08eca933ac.svg",
+    "static/media/peepo_plane.svg": "/peepo-workshop/static/media/peepo_plane.0b1b297c3e748b788b990a38d9b29f62.svg",
+    "static/media/peepo_plane2.svg": "/peepo-workshop/static/media/peepo_plane2.17d00d8331d00e41dfaaf97d85b3c8e2.svg",
+    "static/media/Cloud 01.svg": "/peepo-workshop/static/media/Cloud 01.84cca1019b14e97b5488f1562aacf4c8.svg",
+    "static/media/Cloud 02.svg": "/peepo-workshop/static/media/Cloud 02.5a3894dd38fb1ed550cc7f59509e42ba.svg",
+    "static/media/eye-slash.svg": "/peepo-workshop/static/media/eye-slash.d641fab8eb6283d34bbf40036e63cb01.svg",
+    "static/media/eye-defult.svg": "/peepo-workshop/static/media/eye-defult.ff98de6ed875741a51a5a33f24e9dbad.svg",
+    "static/media/arrow-right-hover.svg": "/peepo-workshop/static/media/arrow-right-hover.2a14a0b0ec89d4c2dcc808198bb4b8a1.svg",
+    "static/media/arrow-right-default.svg": "/peepo-workshop/static/media/arrow-right-default.93f77a93cd5332b7e779926d344b4f97.svg",
+    "index.html": "/peepo-workshop/index.html",
+    "main.e2ece021.css.map": "/peepo-workshop/static/css/main.e2ece021.css.map",
+    "main.dfddddf6.js.map": "/peepo-workshop/static/js/main.dfddddf6.js.map",
+    "453.c792f595.chunk.js.map": "/peepo-workshop/static/js/453.c792f595.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2ece021.css",
+    "static/js/main.dfddddf6.js"
+  ]
+}
