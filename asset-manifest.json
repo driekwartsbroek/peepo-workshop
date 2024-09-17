@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/peepo-workshop/static/css/main.e2ece021.css",
-    "main.js": "/peepo-workshop/static/js/main.00caed8f.js",
+    "main.js": "/peepo-workshop/static/js/main.9cf257fa.js",
     "static/js/453.b4c00d23.chunk.js": "/peepo-workshop/static/js/453.b4c00d23.chunk.js",
     "static/media/bootstrap-icons.woff?": "/peepo-workshop/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
     "static/media/bootstrap-icons.woff2?": "/peepo-workshop/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
@@ -21,11 +21,11 @@
     "static/media/arrow-right-default.svg": "/peepo-workshop/static/media/arrow-right-default.93f77a93cd5332b7e779926d344b4f97.svg",
     "index.html": "/peepo-workshop/index.html",
     "main.e2ece021.css.map": "/peepo-workshop/static/css/main.e2ece021.css.map",
-    "main.00caed8f.js.map": "/peepo-workshop/static/js/main.00caed8f.js.map",
+    "main.9cf257fa.js.map": "/peepo-workshop/static/js/main.9cf257fa.js.map",
     "453.b4c00d23.chunk.js.map": "/peepo-workshop/static/js/453.b4c00d23.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e2ece021.css",
-    "static/js/main.00caed8f.js"
+    "static/js/main.9cf257fa.js"
   ]
 }
